@@ -1,0 +1,1 @@
+alert("bem vindo a um mundo de dor");
